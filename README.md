@@ -1,2 +1,2 @@
 
-Run: [https://YamayaRs.github.io/facial-time](https://yamayars.github.io/)
+Run: [https://YamayaRs.github.io](https://YamayaRs.github.io/)
